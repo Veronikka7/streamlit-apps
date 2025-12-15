@@ -7,3 +7,5 @@
 ```
 streamlit run src/app.py 
 ```
+
+Задеплоенное приложение - https://more-or-less-50k.streamlit.app/
